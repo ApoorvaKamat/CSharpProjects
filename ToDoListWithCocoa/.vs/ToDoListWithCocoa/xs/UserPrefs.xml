@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{DDBAA60D-14F3-49DA-845A-AD9C01C2E216}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoListWithCocoa/Main.cs">
+    <Files>
+      <File FileName="ToDoListWithCocoa/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ToDoListWithCocoa/ViewController.designer.cs" />
+      <File FileName="ToDoListWithCocoa/ViewController.cs" />
+      <File FileName="ToDoListWithCocoa/ToDoTable/ToDoEntities.cs" />
+      <File FileName="ToDoListWithCocoa/ToDoTable/ToDoTableDataSource.cs" />
+      <File FileName="ToDoListWithCocoa/ToDoTable/ToDoTableDelegate.cs" />
+      <File FileName="ToDoListWithCocoa/Main.cs" Line="10" Column="1" />
+      <File FileName="ToDoListWithCocoa/Common/Context.cs" />
+      <File FileName="ToDoListWithCocoa/Entitlements.plist" />
+      <File FileName="ToDoListWithCocoa/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoListWithCocoa" expanded="True">
+            <Node name="ToDoListWithCocoa" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Common" expanded="True" />
+              <Node name="ToDoTable" expanded="True" />
+              <Node name="Main.cs" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ToDoListWithCocoa PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

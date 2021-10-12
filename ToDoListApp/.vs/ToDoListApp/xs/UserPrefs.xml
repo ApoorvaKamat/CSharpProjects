@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{FE2E10F5-229F-4208-97A0-64C64EE0C31B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoListApp/Program.cs">
+    <Files>
+      <File FileName="ToDoListApp/Program.cs" Line="11" Column="13" />
+      <File FileName="ToDoListApp/Task.cs" Line="1" Column="1" />
+      <File FileName="ToDoListApp/TaskItems.cs" Line="1" Column="1" />
+      <File FileName="ToDoListApp/TaskList.cs" Line="86" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoListApp" expanded="True">
+            <Node name="ToDoListApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>btn.Title</Value>
+          <Value>addbtn.Title</Value>
+          <Value>addbtn != null &amp;&amp; addbtn.Tag &lt; 0 &amp;&amp; row == rowCount - 1</Value>
+          <Value>DataSource.ToDoEntities[(int)addbtn.Tag].Item</Value>
+          <Value>addbtn.Tag</Value>
+          <Value>addbtn !=null</Value>
+          <Value>row != rowCount-1</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDoListApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/apoorvakamat/Projects/ToDoListApp/ToDoListApp/SpeechToText.cs" relfile="ToDoListApp/SpeechToText.cs" line="28" column="1" />
+      <Breakpoint file="/Users/apoorvakamat/Projects/ToDoListApp/ToDoListApp/SpeechToText.cs" relfile="ToDoListApp/SpeechToText.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

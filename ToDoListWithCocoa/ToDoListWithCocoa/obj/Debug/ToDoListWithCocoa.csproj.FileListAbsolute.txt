@@ -1,0 +1,11 @@
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/bin/Debug/ToDoListWithCocoa.exe
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/bin/Debug/ToDoListWithCocoa.pdb
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/actool/_PartialAppManifest.items
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/ToDoListWithCocoa.csproj.AssemblyReference.cache
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/ToDoListWithCocoa.csproj.CoreCompileInputs.cache
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/ToDoListWithCocoa.exe
+/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/ToDoListWithCocoa.pdb

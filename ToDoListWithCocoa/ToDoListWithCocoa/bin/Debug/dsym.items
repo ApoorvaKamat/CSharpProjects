@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="ToDoListWithCocoa.app">
+      <NativeExecutable>ToDoListWithCocoa</NativeExecutable>
+      <CompiledArchitectures></CompiledArchitectures>
+      <NoDSymUtil>true</NoDSymUtil>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <SymbolsList>/Users/apoorvakamat/Projects/ToDoListWithCocoa/ToDoListWithCocoa/obj/Debug/mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>
